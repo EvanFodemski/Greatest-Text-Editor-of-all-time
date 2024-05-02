@@ -10,50 +10,52 @@
 - [Built With](#built-with)
 - [License](#license)
 - [Contributing](#contributing)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
 
 ## Description
-Provide a brief overview of what your offline text editor does and why it's useful.
+This Project Is an Offline Text Editor. The application can be reached locally, or fromt the deployed site. With this application, you can edit and save code normally, or download the app and use it offline.
 
 ## Features
-List out the key features of your offline text editor.
+- Save Text written with local Storage
+- Progressive Web Applicaton
+- Save Text OffLine
 
 ## Installation
-Outline the steps to install and set up your text editor locally.
+
+1. Clone The repository
+
+2. NPM I, in gitbash terminal
+
+3. NPM start dev
+
+4. Navigate to localhost:3000
+
+
 
 ## Usage
-Provide examples or instructions on how to use your text editor effectively.
+1. Run the application with the installation Instructions below.
+
+2. Either Use the application online, Or look for the install button, and download the site to run it offline.
 
 ## Built With
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 
 
 
 ## License
-Specify the license under which your text editor is distributed.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Contributing
-Include guidelines for others who wish to contribute to your project.
+[Evan Fodemski](https://github.com/EvanFodemski)
 
-## Authors
-List the authors or contributors to your text editor.
 
-## Acknowledgments
-Give credit to any resources, libraries, or individuals that helped inspire or create your text editor.
+
+
